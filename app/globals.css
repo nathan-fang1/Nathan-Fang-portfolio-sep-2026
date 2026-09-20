@@ -1,0 +1,56 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: #f5f4f0;
+  color: #0d0d0d;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 300;
+  line-height: 1.7;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: #0d0d0d; }
+a:hover { color: #8a8880; }
+
+img { display: block; }
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(18px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* hover states lifted from the design */
+.hv0:hover { background: #efece5 !important; }
+.hv1:hover { background: #efece5 !important; }
+.hv2:hover { background: #efece5 !important; }
+.hv3:hover { background: #efece5 !important; }
+.hv4:hover { background: #3a3a38 !important; color: #f5f4f0 !important; }
+.hv5:hover { background: #0d0d0d !important; color: #f5f4f0 !important; }
+.hv6:hover { color: #0d0d0d !important; }
+.hv7:hover { color: #0d0d0d !important; }
+.hv8:hover { color: #0d0d0d !important; }
+.hv9:hover { color: #0d0d0d !important; }
+.hv10:hover { color: #0d0d0d !important; }
+.hv11:hover { color: #0d0d0d !important; }
+.hv12:hover { color: #0d0d0d !important; }
+.hv13:hover { color: #0d0d0d !important; }
+.hv14:hover { color: #0d0d0d !important; }
+.hv15:hover { color: #0d0d0d !important; }
+.hv16:hover { color: #0d0d0d !important; }
+.hv17:hover { color: #0d0d0d !important; }
+.hv18:hover { background: #3a3a38 !important; color: #f5f4f0 !important; }
+.hv19:hover { background: #0d0d0d !important; color: #f5f4f0 !important; }
+.hv20:hover { background: #eeeae3 !important; }
+.hv21:hover { background: #eeeae3 !important; }
+.hv22:hover { background: #eeeae3 !important; }
+.hv23:hover { background: #eeeae3 !important; }
+.hv24:hover { color: #8a8880 !important; }
+.hv25:hover { color: #0d0d0d !important; }
+.hv26:hover { color: #0d0d0d !important; }
+.hv27:hover { color: #0d0d0d !important; }
+.hv28:hover { color: #0d0d0d !important; }
+.hv29:hover { color: #0d0d0d !important; }
+.hv30:hover { color: #0d0d0d !important; }
