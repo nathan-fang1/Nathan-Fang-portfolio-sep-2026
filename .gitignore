@@ -2,3 +2,4 @@ node_modules
 # leftovers to delete by hand
 _to_delete/
 .next/
+*.zip
