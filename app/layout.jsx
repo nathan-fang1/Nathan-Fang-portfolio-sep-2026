@@ -1,6 +1,7 @@
 import "./globals.css";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
+import ReelLinks from "@/components/ReelLinks";
 
 export const metadata = {
   metadataBase: new URL("https://nathanfang.com"),
@@ -29,6 +30,7 @@ export default function RootLayout({ children }) {
           {children}
           <Footer />
         </div>
+        <ReelLinks />
       </body>
     </html>
   );
