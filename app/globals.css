@@ -10,4 +10,5 @@
 .hv2:hover { background:#efece5 !important; }
 .hv3:hover { background:#3a3a38 !important; color:#f5f4f0 !important; }
 .hv4:hover { background:#0d0d0d !important; color:#f5f4f0 !important; }
-.hv5:hover { background:#eeeae3 !important; }
+.hv5:hover { text-decoration-color:#0d0d0d !important; }
+.hv6:hover { background:#eeeae3 !important; }
